@@ -50,3 +50,5 @@ Temporary Items
 *.aux
 *.log
 *.synctex.gz
+*.log
+Bylaws.synctex.gz

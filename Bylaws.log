@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.2)  22 APR 2016 20:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.2)  22 APR 2016 20:54
 entering extended mode
 **./Bylaws.tex
 (Bylaws.tex
@@ -285,17 +285,12 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
  [19] [20] [21] [22] [23] [24] [25] [26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 624--627
+Underfull \hbox (badness 10000) in paragraph at lines 626--629
 
  []
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 660--663
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 664--665
+Underfull \hbox (badness 10000) in paragraph at lines 662--665
 
  []
 
@@ -309,8 +304,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 668--669
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--671
+
+ []
+
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 699--700
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
 
  []
 
